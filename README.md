@@ -1,1 +1,1 @@
-Learning and doing terraform projects from scratch.
+Deploying AWS EC2 Instances using Terraform.
