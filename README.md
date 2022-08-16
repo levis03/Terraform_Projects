@@ -1,6 +1,1 @@
-# Terraform_Project
-# Terraform_Project
-# Terraform_Project
-# Terraform_Project
-# Terraform_Project
-# Terraform_Projects
+Learning and doing terraform projects from scratch.
